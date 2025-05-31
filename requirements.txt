@@ -1,0 +1,8 @@
+# bb84.py
+from qiskit import QuantumCircuit, Aer
+import numpy as np
+import random
+
+# fernet_crypto.py
+from cryptography.fernet import Fernet
+import hashlib, base64
